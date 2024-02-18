@@ -1,0 +1,5 @@
+action,api
+開燈,light_on_api()
+關燈,light_off_api()
+調高燈光亮度,light_adjust_high_api()
+調低燈光亮度,light_adjust_low_api()
